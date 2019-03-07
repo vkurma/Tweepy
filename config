@@ -1,0 +1,14 @@
+[Keys]
+consumer_key    = LuIOnfo0Yjf6OHvNM8MsPb1VB
+consumer_serect = X5lGJjlcD1f9ZXaVrWpDdYmOuF5sUOr1h9fm5k7Xg2fFLGzlz3
+access_token    = 287700178-ONzyTPa33PL7ET7Vf9EKvEW2WoISGGeOnvKCFD0T
+access_secret   = RYk6IqZDhkOJwRPIvBNnM2YTfiWP1L2kUuUJkEGnOsBoy
+
+[Mongodb]
+host            = ___INSERT YOUR HOST___
+
+[Area]
+south           = 37.7010
+west            = -122.5180
+north           = 37.8350
+east            = -122.3580
